@@ -4,20 +4,6 @@
 **`Desenvolvedora FullStack`**
 
 Me chamo Joaquim Belzio Francisco de Araujo, tenho 20 anos e sou natural do Cuanza Sul. estou a terminar o meu ensino medio no IPPCV, com o curso técnico em informática. Atualmente, estou em perido de avalicao pela BIT e o meu foco é Desenvolvover Sistemas e de solucionar problemas utilizando linguagens de programacao. Sou apaixonada por tecnologia e pretendo buscar muito conheceimento para fortalecer e alavancar a minha carreira.
-
-<
-        
-        />
-    </a>
-    <a href="https://https://github.com/Belzio16">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -69,30 +55,7 @@ Me chamo Joaquim Belzio Francisco de Araujo, tenho 20 anos e sou natural do Cuan
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+
 />
 <img 
     align="left" 
@@ -109,15 +72,7 @@ Me chamo Joaquim Belzio Francisco de Araujo, tenho 20 anos e sou natural do Cuan
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+/> 
 <img 
     align="left" 
     alt="Git" 
