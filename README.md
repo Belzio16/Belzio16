@@ -1,5 +1,5 @@
            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.# 👩🏻‍💻 LBelzio Araujo
+            src="https://custom-icon-badges.# 👩🏻‍💻 Belzio Araujo
 
 **`Desenvolvedora FullStack`**
 
