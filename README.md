@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Joaquim Belzio Francisco de Araujo, tenho 20 anos e sou natural do Cuanza Sul. estou a terminar o meu ensino medio no IPPCV, com o curso técnico em informática. Atualmente, estou em perido de avalicao pela BIT e o foco de Desenvolvover Sistemas. Sou apaixonada por tecnologia e pretendo buscar muitos conheceimentos para a minha area.
+Me chamo Joaquim Belzio Francisco de Araujo, tenho 20 anos e sou natural do Cuanza Sul. estou a terminar o meu ensino medio no IPPCV, com o curso técnico em informática. Atualmente, estou em perido de avalicao pela BIT e o meu foco é Desenvolvover Sistemas e de solucionar problemas utilizando linguagens de programacao. Sou apaixonada por tecnologia e pretendo buscar muito conheceimento para fortalecer e alavancar a minha carreira.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
