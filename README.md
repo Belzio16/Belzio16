@@ -1,7 +1,7 @@
            title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.# 👩🏻‍💻 Belzio Araujo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Joaquim Belzio Francisco de Araujo, tenho 20 anos e sou natural do Cuanza Sul. estou a terminar o meu ensino medio no IPPCV, com o curso técnico em informática. Atualmente, estou em perido de avalicao pela BIT e o meu foco é Desenvolvover Sistemas e de solucionar problemas utilizando linguagens de programacao. Sou apaixonada por tecnologia e pretendo buscar muito conheceimento para fortalecer e alavancar a minha carreira.
 ---
