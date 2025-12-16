@@ -1,5 +1,4 @@
-           title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.# 👩🏻‍💻 Belzio Araujo
+# 👩🏻‍💻 Belzio Araujo
 
 **`Desenvolvedor FullStack`**
 
@@ -47,7 +46,6 @@ Me chamo Joaquim Belzio Francisco de Araujo, tenho 20 anos e sou natural do Cuan
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 />
 <img 
     align="left" 
