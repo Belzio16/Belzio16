@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Belzio Araujo
+# 👨🏽‍💻 Belzio Araujo
 
 **`Desenvolvedor FullStack`**
 
